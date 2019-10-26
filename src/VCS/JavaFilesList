@@ -1,0 +1,12 @@
+Main.java
+VCSFunctions.java
+FileFunctions.java
+Diff.java
+Regenerate.java
+./DataStructures/Commit.java
+./DataStructures/LinkedList.java
+./DataStructures/Node.java
+./Exceptions/DiffException.java
+./Exceptions/FileException.java
+./Exceptions/UnderflowException.java
+./Exceptions/OverflowException.java
